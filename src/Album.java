@@ -1,3 +1,5 @@
+//Album Class
+
 public class Album {
     String title,artist;
     Song[] tracklist;
